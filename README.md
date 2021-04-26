@@ -9,7 +9,7 @@
 
 <img src="./img/2.jpg" height=300>
 
-* Speaker (anything)
+* Speaker 40Ø (anything)
 
 <div style="page-break-before:always"></div>
 
