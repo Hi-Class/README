@@ -14,7 +14,7 @@
 
 <img src="./img/3.jpg" height=400>
 
-* [Case (Fusion 360 File)](https://github.com/Hi-Class/README/speaker.f3d)
+* [Case (Fusion 360 File)](https://github.com/Hi-Class/README/blob/main/speaker.f3d)
 
 <img src="./img/4.png" height=400>
 
