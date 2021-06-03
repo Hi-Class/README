@@ -25,6 +25,6 @@
 https://www.raspberrypi.org/documentation/installation/installing-images/
 
 ## Detail
-1. [Google Assistant Speaker](http://github.com/Hi-Class/Python)
 1. [LED-Matrix-Control](http://github.com/Hi-Class/Cpp)
+1. [Google Assistant Speaker](http://github.com/Hi-Class/Python)
 1. [Web](http://github.com/Hi-Class/Web)
